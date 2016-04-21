@@ -1,0 +1,1 @@
+("~/Documents/pro/projects/gameOfLife1/")
